@@ -1,3 +1,7 @@
+/**
+ * Write a play song function that updates
+ * the src attribute and plays a new xmas song from youtube
+ */
 const player = document.getElementById("player")
 
 function playSong(id='PoAjmmD89Vw') {
